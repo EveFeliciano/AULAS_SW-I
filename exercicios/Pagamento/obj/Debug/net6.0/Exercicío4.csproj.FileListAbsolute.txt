@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\bin\Debug\net6.0\Exercicío4.exe
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\bin\Debug\net6.0\Exercicío4.deps.json
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\bin\Debug\net6.0\Exercicío4.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\bin\Debug\net6.0\Exercicío4.dll
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\bin\Debug\net6.0\Exercicío4.pdb
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.dll
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\refint\Exercicío4.dll
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.pdb
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\Exercicío4.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercícios\Exercicío4\obj\Debug\net6.0\ref\Exercicío4.dll
